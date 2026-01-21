@@ -5,7 +5,7 @@
 Soy un **Programador** apasionado por la intersección entre el diseño y la funcionalidad. Me especializo en crear aplicaciones de alto rendimiento que no solo funcionan, sino que escalan.
 
 - 🔭 **Proyectos:** Liderando el desarrollo de sistema hotelero.
-- 💡 **Filosofía:** "Si alguien ya lo hizo, yo tambien puedo"
+- 💡 **Filosofía:** "Si alguien lo ha hecho. Tambien puedo; y si nadie lo ha hecho, puedo ser el primero" ☝️
 - 🌍 **Ubicación:** Mexico :cactus:
 
 ---
@@ -16,19 +16,6 @@ Soy un **Programador** apasionado por la intersección entre el diseño y la fun
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,aws,docker,git,postgres,mongodb,tailwind,linux" />
   </a>
-</p>
-
----
-
-### ⚡ GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=c41c0&show_icons=true&theme=vision-glow&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c41c0&layout=compact&theme=vision-glow&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=c41c0&theme=vision-glow&hide_border=true" />
 </p>
 
 ---
